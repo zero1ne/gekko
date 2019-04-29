@@ -30,8 +30,8 @@ export default {
   data: () => {
     return {
       // defaults:
-      exchange: 'poloniex',
-      currency: 'USDT',
+      exchange: 'upbit',
+      currency: 'KRW',
       asset: 'BTC',
     };
   },
@@ -99,4 +99,3 @@ export default {
   }
 }
 </script>
-</style>
